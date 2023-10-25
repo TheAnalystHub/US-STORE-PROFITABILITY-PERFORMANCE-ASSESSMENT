@@ -57,6 +57,9 @@ The above analysis shows the total sales and profit made by each product categor
 -----
 The analysis presents the annual minimum sales recorded within the store, this will inform the management decision on the non-performing products to be removed from the catalogue and probably channel the money into stocking the most performing product.
 
+# Conclusion
+----
+The above assessment shows the financial viability of the superstore, the profitability of the product sales, and the performance of the segments and product category within the store. Though an observation of the product profit performance showed some losses in some products which sold below cost price, effort needs to be made to review the pricing of the products with less than permissible profit performance or be removed from the store and the resources channeled to the most profitable or selling products, rather than tie the finance down in a product with financial losses. This will ensure no losses and increase profiability while maintaining the stores pricing index.
 
 
 
